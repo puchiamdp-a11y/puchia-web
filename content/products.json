@@ -1,0 +1,46 @@
+[
+  {
+    "id": "sticker-pack-pochoclera",
+    "name": "Sticker Pack — Pochoclera",
+    "price": 4000,
+    "themeId": "abejita",
+    "description": "Personalizable · Hecho a pedido.",
+    "images": [
+      "assets/products/sticker-pack-pochoclera/1.jpg",
+      "assets/products/sticker-pack-pochoclera/2.jpg"
+    ]
+  },
+  {
+    "id": "cuadro-2030",
+    "name": "Cuadro Personalizado 20×30",
+    "price": 13600,
+    "themeId": "plim-plim",
+    "description": "Incluye diseño y lámina.",
+    "images": [
+      "assets/products/cuadro-2030/1.jpg",
+      "assets/products/cuadro-2030/2.jpg"
+    ]
+  },
+  {
+    "id": "vasos",
+    "name": "Vasos Personalizados (mín. 10)",
+    "price": 900,
+    "themeId": "bluey",
+    "description": "Precio por unidad. Pedido mínimo 10.",
+    "images": [
+      "assets/products/vasos/1.jpg",
+      "assets/products/vasos/2.jpg"
+    ]
+  },
+  {
+    "id": "llaveros",
+    "name": "Llaveros Personalizados",
+    "price": 980,
+    "themeId": "merlina",
+    "description": "Ideal souvenirs.",
+    "images": [
+      "assets/products/llaveros/1.jpg",
+      "assets/products/llaveros/2.jpg"
+    ]
+  }
+]

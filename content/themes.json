@@ -1,0 +1,22 @@
+[
+  {
+    "id": "abejita",
+    "name": "Abejita",
+    "cover": "assets/themes/abejita.png"
+  },
+  {
+    "id": "plim-plim",
+    "name": "Plim Plim",
+    "cover": "assets/themes/plim-plim.png"
+  },
+  {
+    "id": "bluey",
+    "name": "Bluey",
+    "cover": "assets/themes/bluey.png"
+  },
+  {
+    "id": "merlina",
+    "name": "Merlina",
+    "cover": "assets/themes/merlina.png"
+  }
+]
